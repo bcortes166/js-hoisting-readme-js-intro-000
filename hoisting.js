@@ -9,7 +9,7 @@ var lyric = "maybe";
 
 
 function crazy() {
-  const thisIsCrazy// fix the code in here:
+  // fix the code in here:
   thisIsCrazy();
 
   var thisIsCrazy = function (){
