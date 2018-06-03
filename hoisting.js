@@ -9,14 +9,14 @@ var lyric = "maybe";
 
 
 function crazy() {
-  // fix the code in here:
-  function thisIsCrazy(){
+// fix the code in here:
+
 
   var thisIsCrazy = function(){
     console.log("hey!!!")
   }
 }
-}
+
 
 function sayMyName() {
   // fix the code in here:
